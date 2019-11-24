@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574587326 source:/home/saurabh/Desktop/projects/gcc/sem3.1/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
